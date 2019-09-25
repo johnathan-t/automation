@@ -1,0 +1,1 @@
+robocopy C:\local\ \\newserver\c$\local\ /e /zb /copy:DATSOU /r:3 /w:3 /log:c:\tools\FOLDER.log /V /NP

@@ -1,0 +1,1 @@
+this must be followed by running the same command with the /MIR switch to grab the deltas, then export/reimport shares.
